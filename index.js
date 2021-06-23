@@ -1,7 +1,8 @@
 const express = require('express');
 const repoContext = require('./repository/repository-wrapper');
 const cors = require('cors');
-const {validateProduct} = require('./middleware/products-validation');
+const {validateSongs} = require('./middleware/songs-validation');
+
 
 
 
