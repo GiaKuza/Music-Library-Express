@@ -198,5 +198,21 @@
     "artist": "The Nobody",
     "genre": "Electric House",
     "releaseDate": "12/03/1990"
+  },
+  {
+    "id": 26,
+    "title": "Castles in the Sky",
+    "album": "I Dont Know",
+    "artist": "Cascade",
+    "genre": "Electronic",
+    "releaseDate": "12/15/2021"
+  },
+  {
+    "id": 27,
+    "title": "Violence",
+    "album": "Hypnotica",
+    "artist": "Rezz",
+    "genre": "House",
+    "releaseDate": "09/23/2020"
   }
 ]
